@@ -1,5 +1,5 @@
 #Project Log
 
-Date | Description
---- | ---
-N/A | N/A
+Date | Name | Description
+--- | --- | ---
+N/A | N/A | N/A
